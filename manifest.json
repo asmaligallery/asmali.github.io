@@ -1,0 +1,13 @@
+{
+    "name": "Asmali Gallery | آسمالی گالری",
+    "short_name": "Asmali Gallery | آسمالی گالری",
+    "start_url": "/",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "asmali.png",
+        "sizes": "1280x1280",
+        "type": "image/png"
+      }
+    ]
+  }
